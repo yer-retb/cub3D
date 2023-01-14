@@ -1,0 +1,14 @@
+F 220,111,119
+NO rander/textures/eagle.xpm
+
+
+EA rander/textures/redbrick.xpm
+SO rander/textures/graystone.xpm
+
+C 225,111,200
+
+WE rander/textures/mossystone.xpm
+
+111
+1N1
+111
